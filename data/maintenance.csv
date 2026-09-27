@@ -1,0 +1,31 @@
+asset_id,asset_type,section_id,asset_condition,maintenance_type,maintenance_duration_hours,maintenance_priority,maintenance_deadline,worker_available,machine_available
+A200,Signal,AMD-BRC,1,Rail Replacement,8,Critical,2025-06-18,True,True
+A201,Overhead Wire,DEL-AGR,3,Bridge Inspection,8,High,2025-06-06,False,True
+A202,Overhead Wire,MAS-CBE,1,Points Lubrication,2,High,2025-06-24,True,False
+A203,Track,MUM-PUN,3,Rail Replacement,1,High,2025-06-18,True,True
+A204,Switch/Points,LKO-CNB,4,Ballast Cleaning,1,Low,2025-06-23,True,True
+A205,Switch/Points,MAS-CBE,1,Routine Inspection,6,High,2025-06-25,True,True
+A206,Track,MAS-CBE,4,Rail Replacement,2,Medium,2025-06-12,True,True
+A207,Traction Substation,MUM-PUN,4,OHE Maintenance,8,Medium,2025-06-14,True,False
+A208,Platform,DEL-JAI,3,Ballast Cleaning,6,High,2025-06-30,True,True
+A209,Level Crossing,MUM-PUN,3,Bridge Inspection,4,Medium,2025-06-28,True,True
+A210,Track,LKO-CNB,5,Signal Calibration,4,Medium,2025-06-23,True,True
+A211,Switch/Points,HYD-SEC,3,Rail Replacement,4,High,2025-06-26,True,True
+A212,Overhead Wire,MAS-CBE,3,Rail Replacement,4,Medium,2025-06-21,True,False
+A213,Traction Substation,MUM-PUN,2,Track Tamping,3,Critical,2025-06-26,True,True
+A214,Traction Substation,BPL-NGP,4,Signal Calibration,2,Low,2025-06-16,False,True
+A215,Platform,KOL-PAT,5,OHE Maintenance,1,Medium,2025-06-30,True,True
+A216,Traction Substation,MAS-CBE,4,Rail Replacement,3,Medium,2025-06-15,True,True
+A217,Overhead Wire,DEL-JAI,5,Signal Calibration,4,Medium,2025-06-11,True,True
+A218,Platform,BPL-NGP,2,Points Lubrication,2,Critical,2025-06-05,True,True
+A219,Signal,BPL-NGP,1,Ballast Cleaning,8,High,2025-06-17,False,True
+A220,Switch/Points,BPL-NGP,5,OHE Maintenance,1,Medium,2025-06-24,True,True
+A221,Traction Substation,DEL-JAI,5,Routine Inspection,8,Low,2025-06-11,True,False
+A222,Platform,MUM-PUN,1,Track Tamping,8,Critical,2025-06-09,True,True
+A223,Level Crossing,DEL-AGR,3,Routine Inspection,4,High,2025-06-15,False,False
+A224,Platform,AMD-BRC,2,Rail Replacement,6,High,2025-06-06,True,False
+A225,Bridge,BPL-NGP,4,Signal Calibration,3,Medium,2025-06-18,True,True
+A226,Bridge,KOL-PAT,4,Track Tamping,3,Medium,2025-06-22,True,True
+A227,Switch/Points,BPL-NGP,4,Signal Calibration,2,Medium,2025-06-07,True,True
+A228,Switch/Points,MAS-CBE,1,Bridge Inspection,1,Critical,2025-06-12,True,True
+A229,Overhead Wire,KOL-PAT,2,OHE Maintenance,3,High,2025-06-23,False,True
